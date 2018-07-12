@@ -1,0 +1,2329 @@
+[
+  {
+    "type": "shaped",
+    "output": {
+      "item": "efab:upgrade_armory"
+    },
+    "input": [
+      "aba",
+      "cdc",
+      "ede"
+    ],
+    "inputmap": {
+      "a": "logWood",
+      "b": {
+        "item": "actuallyadditions:wooden_paxel"
+      },
+      "c": {
+        "item": "minecraft:flint"
+      },
+	  "d": "stickWood",
+	  "e": "string"
+    },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:chest"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": "plankWood"
+     },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:chest"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:planks"
+      }
+     },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "quark:custom_chest",
+	  "meta": 3
+	  
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:planks",
+	    "meta": 4
+      }
+     },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "quark:custom_chest",
+	  "meta": 2
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:planks",
+	    "meta": 3
+      }
+     },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "quark:custom_chest",
+	  "meta": 1
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:planks",
+	    "meta": 2
+      }
+     },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "quark:custom_chest"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:planks",
+	    "meta": 1
+      }
+     },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "quark:custom_chest",
+	  "meta": 4
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:planks",
+	    "meta": 5
+      }
+     },
+    "time": 0
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:stone_sword"
+    },
+    "input": [
+      " a ",
+      " a ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:flint"
+      },
+      "b": "stickWood"
+    },
+    "time": 0,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:stone_pickaxe"
+    },
+    "input": [
+      "aaa",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:flint"
+      },
+      "b": "stickWood"
+    },
+    "time": 0,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:stone_axe"
+    },
+    "input": [
+      "aa ",
+      "ab ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:flint"
+      },
+      "b": "stickWood"
+    },
+    "time": 0,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:stone_shovel"
+    },
+    "input": [
+      " a ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:flint"
+      },
+      "b": "stickWood"
+    },
+    "time": 0,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:stone_hoe"
+    },
+    "input": [
+      "aa ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:flint"
+      },
+      "b": "stickWood"
+    },
+    "time": 0,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_sword"
+    },
+    "input": [
+      " a ",
+      " a ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "input": [
+      "aaa",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_axe"
+    },
+    "input": [
+      "aa ",
+      "ab ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_shovel"
+    },
+    "input": [
+      " a ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_hoe"
+    },
+    "input": [
+      "aa ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_sword"
+    },
+    "input": [
+      " a ",
+      " a ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "input": [
+      "aaa",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_axe"
+    },
+    "input": [
+      "aa ",
+      "ab ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_shovel"
+    },
+    "input": [
+      " a ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_hoe"
+    },
+    "input": [
+      "aa ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      },
+      "b": "stickWood"
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_sword"
+    },
+    "input": [
+      " a ",
+      " a ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      },
+      "b": "stickWood"
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "input": [
+      "aaa",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      },
+      "b": "stickWood"
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_axe"
+    },
+    "input": [
+      "aa ",
+      "ab ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      },
+      "b": "stickWood"
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "input": [
+      " a ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      },
+      "b": "stickWood"
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_hoe"
+    },
+    "input": [
+      "aa ",
+      " b ",
+      " b "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      },
+      "b": "stickWood"
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:leather_helmet"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "   "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "harvestcraft:hardenedleatheritem"
+      }
+    },
+    "time": 20,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "input": [
+      "a a",
+      "aaa",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "harvestcraft:hardenedleatheritem"
+      }
+    },
+    "time": 20,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:leather_leggings"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "harvestcraft:hardenedleatheritem"
+      }
+    },
+    "time": 20,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:leather_boots"
+    },
+    "input": [
+      "   ",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "harvestcraft:hardenedleatheritem"
+      }
+    },
+    "time": 20,
+    "tiers": [
+      "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_helmet"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "   "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "input": [
+      "a a",
+      "aaa",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_leggings"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:iron_boots"
+    },
+    "input": [
+      "   ",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_helmet"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "   "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_chestplate"
+    },
+    "input": [
+      "a a",
+      "aaa",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_leggings"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:golden_boots"
+    },
+    "input": [
+      "   ",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "time": 6000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "   "
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "input": [
+      "a a",
+      "aaa",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:diamond_boots"
+    },
+    "input": [
+      "   ",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "time": 12000,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:bucket"
+    },
+    "input": [
+      "   ",
+      "a a",
+      " a "
+    ],
+    "inputmap": {
+      "a": "ingotIron"
+    },
+    "time": 600,
+    "tiers": [
+      "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:faraday_suit_head"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "   "
+    ],
+    "inputmap": {
+      "a": "plateAluminum"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:faraday_suit_chest"
+    },
+    "input": [
+      "a a",
+      "aaa",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": "plateAluminum"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:faraday_suit_legs"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": "plateAluminum"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+   {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:faraday_suit_feet"
+    },
+    "input": [
+      "   ",
+      "a a",
+      "a a"
+    ],
+    "inputmap": {
+      "a": "plateAluminum"
+    },
+    "time": 1200,
+    "tiers": [
+      "UPGRADE_ARMORY",
+	  "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "minecraft:piston"
+    },
+    "input": [
+      "aaa",
+      "bcb",
+      "bdb"
+    ],
+    "inputmap": {
+      "a": "plankWood",
+	  "b": "cobblestone",
+	  "c": "ingotIron",
+	  "d": "dustRedstone"
+    },
+    "time": 400,
+    "tiers": [
+      "GEARBOX"
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "tconstruct:pattern"
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+      "a": "plankWood"
+    },
+    "time": 300,
+    "tiers": [
+      "GEARBOX",
+	  "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "tconstruct:smeltery_controller"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "tconstruct:materials"
+      }
+    },
+    "time": 12000,
+    "tiers": [
+      "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "tconstruct:slimesling"
+    },
+    "input": [
+      "aba",
+      "cdc",
+      "ede"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "tconstruct:ingots",
+		"meta": 3
+      },
+      "b": {
+        "item": "openblocks:hang_glider"
+      },
+      "c": {
+        "item": "harvestcraft:hotwingsitem"
+      },
+      "d": {
+        "item": "tconstruct:slime_congealed",
+		"meta": 3
+      },
+      "e": {
+        "item": "harvestcraft:netherwingsitem"
+      }
+    },
+    "time": 36000,
+    "tiers": [
+      "GEARBOX",
+	  "UPGRADE_ARMORY"
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "actuallyadditions:item_misc",
+	  "meta": 5
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "appliedenergistics2:material"
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "lava",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "actuallyadditions:item_misc",
+	  "meta": 5
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+      "a": {
+        "item": "minecraft:quartz"
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "lava",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "forestry:sturdy_machine"
+    },
+    "input": [
+      "aaa",
+      "a a",
+      "aaa"
+    ],
+    "inputmap": {
+      "a": "ingotBronze"
+    },
+    "time": 1200,
+    "tiers": [
+      "GEARBOX"
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "immersiveengineering:treated_wood"
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+      "a": "plankWood"
+    },
+    "time": 40,
+    "tiers": [
+      "LIQUID",
+	  "GEARBOX"
+    ],
+    "fluids": [
+      {
+        "fluid": "creosote",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "storagedrawers:upgrade_template"
+    },
+    "input": [
+      "aba",
+      "aca",
+      "aba"
+    ],
+    "inputmap": {
+      "a": "stickWood",
+	  "b": "blockGlass",
+	  "c": "drawerBasic"
+    },
+    "time": 1200,
+    "tiers": [
+      "GEARBOX"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "yabba:upgrade_blank"
+    },
+    "input": [
+      "aba",
+      "aca",
+      "aba"
+    ],
+    "inputmap": {
+      "a": "stickWood",
+	  "b": "blockGlass",
+	  "c": {
+        "item": "yabba:item_barrel"
+      }
+    },
+    "time": 1200,
+    "tiers": [
+      "GEARBOX"
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "techreborn:ingot",
+	  "meta": 19
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+      "a": "ingotIron"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "techreborn:storage2",
+	  "meta": 10
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+      "a": "blockIron"
+    },
+    "time": 1800,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "techreborn:cable",
+	  "meta": 5
+    },
+    "input": [
+      "aa"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "immersiveengineering:material",
+		"meta": 20
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID",
+	  "GEARBOX"
+    ],
+    "fluids": [
+      {
+        "fluid": "latex",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "techreborn:cable",
+	  "meta": 6
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "techreborn:cable",
+		"meta": 2
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID",
+	  "GEARBOX"
+    ],
+    "fluids": [
+      {
+        "fluid": "latex",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "techreborn:cable",
+	  "meta": 7
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "techreborn:cable",
+		"meta": 3
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID",
+	  "GEARBOX"
+    ],
+    "fluids": [
+      {
+        "fluid": "latex",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "appliedenergistics2:material",
+	  "meta": 5
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+      "a": "sand"
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID",
+	  "STEAM"
+    ],
+    "fluids": [
+      {
+        "fluid": "latex",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "torchmaster:mega_torch"
+    },
+    "input": [
+      "aba",
+      "aba",
+      "aca"
+    ],
+    "inputmap": {
+      "a": "gemDiamond",
+	  "b": "rodBlaze",
+	  "c": "blockSteel"
+    },
+    "time": 12000,
+    "tiers": [
+      "STEAM",
+      "RF",
+      "LIQUID",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 20,
+    "fluids": [
+      {
+        "fluid": "lava",
+        "amount": 8000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "thermalexpansion:frame"
+    },
+    "input": [
+      "aba",
+      "cdc",
+      "aea"
+    ],
+    "inputmap": {
+      "a": "plateTitanium",
+	  "b": {
+        "item": "forestry:chipsets",
+		"meta": 3
+      },
+	  "c": "blockGlass",
+	  "d": {
+        "item": "techreborn:part",
+		"meta": 1
+      },
+	  "e": {
+        "item": "forestry:hardened_machine"
+      }
+    },
+    "time": 6000,
+    "tiers": [
+      "RF",
+      "LIQUID",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 400,
+    "fluids": [
+      {
+        "fluid": "steel",
+        "amount": 1296
+      },
+      {
+        "fluid": "latex",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "thermalexpansion:frame",
+	  "meta": 64
+    },
+    "input": [
+      "aba",
+      "cdc",
+      "aea"
+    ],
+    "inputmap": {
+      "a": "plateAdvancedAlloy",
+	  "b": {
+        "item": "forestry:chipsets",
+		"meta": 3
+      },
+	  "c": "blockGlass",
+	  "d": {
+        "item": "techreborn:part",
+		"meta": 2
+      },
+	  "e": {
+        "item": "forestry:hardened_machine"
+      }
+    },
+    "time": 6000,
+    "tiers": [
+      "RF",
+      "LIQUID",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 200,
+    "fluids": [
+      {
+        "fluid": "aluminum",
+        "amount": 1296
+      },
+      {
+        "fluid": "latex",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "thermalfoundation:material",
+	  "meta": 512
+    },
+    "input": [
+      " a ",
+      " b ",
+      " a "
+    ],
+    "inputmap": {
+      "a": "dustRedstone",
+	  "b": "ingotIron"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 50
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "thermalfoundation:material",
+	  "meta": 514
+    },
+    "input": [
+      "  a",
+      " b ",
+      "a  "
+    ],
+    "inputmap": {
+      "a": "dustRedstone",
+	  "b": "ingotSilver"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 50
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "thermalfoundation:material",
+	  "meta": 513
+    },
+    "input": [
+      "  a",
+      " b ",
+      "a  "
+    ],
+    "inputmap": {
+      "a": "dustRedstone",
+	  "b": "ingotGold"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 50
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "thermalfoundation:material",
+	  "meta": 515
+    },
+    "input": [
+      "a  ",
+      " b ",
+      "  a"
+    ],
+    "inputmap": {
+      "a": "dustRedstone",
+	  "b": "ingotElectrum"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 50
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "input": [
+      "   ",
+      "aba",
+      "   "
+    ],
+    "inputmap": {
+      "a": "ingotRefinedIron",
+	  "b": {
+        "item": "minecraft:quartz"
+      }
+    },
+    "time": 300,
+    "tiers": [
+      "RF",
+      "LIQUID",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 750,
+    "fluids": [
+      {
+        "fluid": "sludge",
+        "amount": 250
+      },
+      {
+        "fluid": "lumium",
+        "amount": 144
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "wrcbe:material",
+	  "meta": 2
+    },
+    "input": [
+      "aba",
+      "bcb",
+      "aba"
+    ],
+    "inputmap": {
+      "a": "dustRedstone",
+      "b": "dustGlowstone",
+	  "c": "enderpearl"
+    },
+    "time": 300,
+    "tiers": [
+      "RF",
+      "LIQUID",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 200,
+    "fluids": [
+      {
+        "fluid": "ender",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "gendustry:power_module"
+    },
+    "input": [
+      "aba",
+      "cdc",
+      "aba"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "extrabees:misc"
+      },
+      "b": "ingotGold",
+	  "c": "gearBronze",
+	  "d": "dustRedstone"
+    },
+    "time": 300,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "binnie.dna.raw",
+        "amount": 1000
+      },
+      {
+        "fluid": "for.honey",
+        "amount": 8000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "gendustry:upgrade_frame"
+    },
+    "input": [
+      "aba",
+      "c c",
+      "aba"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "forestry:thermionic_tubes",
+		"meta": 1
+      },
+      "b": "nuggetGold",
+	  "c": "dustRedstone"
+    },
+    "time": 300,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "for.honey",
+        "amount": 8000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "gendustry:bee_receptacle"
+    },
+    "input": [
+      "aba",
+      "cdc",
+      "aba"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "extrabees:misc"
+      },
+      "b": "ingotGold",
+	  "c": "gearTin",
+	  "d": "dustRedstone"
+    },
+    "time": 300,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "binnie.dna.raw",
+        "amount": 500
+      },
+      {
+        "fluid": "for.honey",
+        "amount": 2000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "appliedenergistics2:controller"
+    },
+    "input": [
+      "aba",
+      "bcb",
+      "aba"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "actuallyadditions:block_crystal_empowered",
+		"meta": 1
+      },
+	  "b": {
+        "item": "techreborn:part",
+		"meta": 3
+      },
+	  "c": "netherStar"
+    },
+    "time": 18000,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_DIGITAL",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 2000
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "simplyjetpacks:metaitemmods",
+	  "meta": 14
+    },
+    "input": [
+      "a a",
+      "aaa",
+      "aaa"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "simplyjetpacks:metaitemmods",
+		"meta": 13
+      }
+    },
+    "time": 1200,
+    "tiers": [
+      "LIQUID",
+	  "UPGRADE_DIGITAL"
+    ],
+	"fluids": [
+      {
+        "fluid": "if.pink_slime",
+        "amount": 20000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "projecte:condenser_mk1"
+    },
+    "input": [
+      "aba",
+      "cde",
+      "afa"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "projecte:matter_block",
+		"meta": 1
+      },
+	  "b": {
+        "item": "environmentaltech:ionite"
+      },
+	  "c": {
+        "item": "environmentaltech:aethium"
+      },
+	  "d": {
+        "item": "extrautils2:opinium",
+		"meta": 8
+      },
+	  "e": {
+        "item": "environmentaltech:lonsdaleite"
+      },	  
+	  "f": {
+        "item": "environmentaltech:pladium"
+      }
+    },
+    "time": 36000,
+    "tiers": [
+      "RF",
+      "LIQUID",
+	  "UPGRADE_DIGITAL",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 1000000,
+	"fluids": [
+      {
+        "fluid": "fluidheliumplasma",
+        "amount": 512000
+      }
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "stevescarts:modulecomponents",
+	  "meta": 18
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+	  "a": "nuggetDiamond"
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "lava",
+        "amount": 50
+      },
+      {
+        "fluid": "water",
+        "amount": 50
+      } 
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateCopper"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 1,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateAluminum"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 2,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateLead"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 3,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateSilver"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 4,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateNickel"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 5,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateUranium"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 6,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateConstantan"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 7,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateElectrum"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 8,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateSteel"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 9,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateIron"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "immersiveengineering:sheetmetal",
+	  "meta": 10,
+	  "amount": 2
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+      "a": "plateGold"
+    },
+    "time": 200,
+    "tiers": [
+	  "GEARBOX",
+	  "STEAM"
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "appliedenergistics2:material",
+	  "meta": 5,
+	  "amount": 4
+    },
+    "input": [
+      " a ",
+	  "a a",
+	  " a "
+    ],
+    "inputmap": {
+	  "a": "sand"
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "fluidsilicon",
+        "amount": 1000
+      } 
+    ]
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "techreborn:part",
+	  "meta": 29
+    },
+    "input": [
+      "aba",
+      "cde",
+      "afa"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "techreborn:cable",
+		"meta": 5
+      },
+	  "b": "dustRedstone",
+	  "c": "itemSilicon",
+	  "d": "plateRefinedIron",
+	  "e": "ingotCopper",
+	  "f": "ingotGold"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 1000
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "techreborn:part",
+	  "meta": 30
+    },
+    "input": [
+      "aba",
+      "cde",
+      "afa"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "techreborn:cable",
+		"meta": 6
+      },
+	  "b": "dustRedstone",
+	  "c": "dustGlowstone",
+	  "d": {
+        "item": "techreborn:part",
+		"meta": 29
+      },
+	  "e": {
+        "item": "minecraft:dye",
+		"meta": 4
+      },
+	  "f": {
+        "item": "stevescarts:modulecomponents",
+		"meta": 22
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 1250
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "appliedenergistics2:material",
+	  "meta": "18"
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+	  "a": "ingotGold"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_DIGITAL",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 500
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "appliedenergistics2:material",
+	  "meta": 17
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+	  "a": "gemDiamond"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_DIGITAL",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 500
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "appliedenergistics2:material",
+	  "meta": 16
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "appliedenergistics2:material",
+		"meta": 10
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_DIGITAL",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 500
+  },
+  {
+    "type": "shapeless",
+    "output": {
+      "item": "appliedenergistics2:material",
+	  "meta": 20
+    },
+    "input": [
+      "a"
+    ],
+    "inputmap": {
+	  "a": "itemSilicon"
+    },
+    "time": 100,
+    "tiers": [
+      "GEARBOX",
+      "RF",
+	  "UPGRADE_DIGITAL",
+	  "UPGRADE_POWER"
+    ],
+    "rfpertick": 500
+  },
+  {
+    "type": "shaped",
+    "output": {
+      "item": "actuallyadditions:item_spawner_changer"
+    },
+    "input": [
+      "aba",
+	  "bcb",
+	  "aba"
+    ],
+    "inputmap": {
+	  "a": {
+        "item": "minecraft:magma_cream"
+      },
+	  "b": {
+        "item": "actuallyadditions:item_misc",
+		"meta": 20
+      },
+	  "c": {
+        "item": "actuallyadditions:block_crystal_empowered",
+		"meta": 2
+      }
+    },
+    "time": 100,
+    "tiers": [
+      "LIQUID"
+    ],
+    "fluids": [
+      {
+        "fluid": "essence",
+        "amount": 16000
+      } 
+    ]
+  }
+]

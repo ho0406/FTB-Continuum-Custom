@@ -1,0 +1,34 @@
+{
+  "outputs": [
+    {
+      "target": "black",
+      "weight": 64,
+      "id": "OD:oreCoal"
+    },
+    {
+      "target": "white",
+      "weight": 48,
+      "id": "OD:oreIron"
+    },
+    {
+      "target": "orange",
+      "weight": 38,
+      "id": "OD:oreCopper"
+    },
+    {
+      "target": "gray",
+      "weight": 38,
+      "id": "OD:oreTin"
+    },
+    {
+      "target": "white",
+      "weight": 27,
+      "id": "OD:oreAluminum"
+    },
+    {
+      "target": "light_blue",
+      "weight": 12,
+      "id": "OD:oreApatite"
+    }
+  ]
+}

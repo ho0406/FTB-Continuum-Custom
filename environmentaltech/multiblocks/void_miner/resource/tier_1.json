@@ -1,0 +1,44 @@
+{
+  "outputs": [
+    {
+      "target": "gray",
+      "weight": 32,
+      "id": "minecraft:stone:0"
+    },
+    {
+      "target": "pink",
+      "weight": 30,
+      "id": "minecraft:stone:1"
+    },
+    {
+      "target": "white",
+      "weight": 30,
+      "id": "minecraft:stone:3"
+    },
+    {
+      "target": "gray",
+      "weight": 30,
+      "id": "minecraft:stone:5"
+    },
+    {
+      "target": "silver",
+      "weight": 30,
+      "id": "minecraft:gravel"
+    },
+    {
+      "target": "brown",
+      "weight": 20,
+      "id": "minecraft:dirt:0"
+    },
+    {
+      "target": "yellow",
+      "weight": 30,
+      "id": "minecraft:sand:0"
+    },
+    {
+      "target": "gray",
+      "weight": 28,
+      "id": "minecraft:cobblestone"
+    }
+  ]
+}

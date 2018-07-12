@@ -1,0 +1,79 @@
+{
+  "outputs": [
+    {
+      "target": "gray",
+      "weight": 32,
+      "id": "minecraft:stone:0"
+    },
+    {
+      "target": "pink",
+      "weight": 30,
+      "id": "minecraft:stone:1"
+    },
+    {
+      "target": "white",
+      "weight": 30,
+      "id": "minecraft:stone:3"
+    },
+    {
+      "target": "gray",
+      "weight": 30,
+      "id": "minecraft:stone:5"
+    },
+    {
+      "target": "silver",
+      "weight": 30,
+      "id": "minecraft:gravel"
+    },
+    {
+      "target": "green",
+      "weight": 10,
+      "id": "minecraft:grass"
+    },
+    {
+      "target": "brown",
+      "weight": 20,
+      "id": "minecraft:dirt:0"
+    },
+    {
+      "target": "brown",
+      "weight": 10,
+      "id": "minecraft:dirt:2"
+    },
+    {
+      "target": "yellow",
+      "weight": 30,
+      "id": "minecraft:sand:0"
+    },
+    {
+      "target": "yellow",
+      "weight": 24,
+      "id": "minecraft:sand:1"
+    },
+    {
+      "target": "gray",
+      "weight": 28,
+      "id": "minecraft:cobblestone"
+    },
+    {
+      "target": "silver",
+      "weight": 12,
+      "id": "minecraft:clay"
+    },
+    {
+      "target": "yellow",
+      "weight": 30,
+      "id": "chisel:limestone2:7"
+    },
+    {
+      "target": "white",
+      "weight": 30,
+      "id": "chisel:marble2:7"
+    },
+    {
+      "target": "white",
+      "weight": 30,
+      "id": "chisel:basalt2:7"
+    }
+  ]
+}
